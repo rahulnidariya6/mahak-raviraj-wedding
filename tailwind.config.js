@@ -1,0 +1,1 @@
+export default {content:["./index.html","./src/**/*.{js,jsx}"],theme:{extend:{fontFamily:{serif:["Cormorant Garamond","serif"],script:["Great Vibes","cursive"],sans:["Montserrat","sans-serif"]}}},plugins:[]};
